@@ -5,7 +5,7 @@
 3. 牛市币本位，刷量完后账号保留sol，防止爆拉
 
 
-经测试磨损在0.3%-0.03%z之间
+经测试磨损在0.3%-0.03%之间
 
 个人twitter https://twitter.com/crazytidy
 
